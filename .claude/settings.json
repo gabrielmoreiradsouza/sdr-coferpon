@@ -1,0 +1,12 @@
+{
+  "sandbox": {
+    "network": {
+      "allowedDomains": [
+        "n8n-mds-inbox.aeuwy4.easypanel.host",
+        "evo.moreirads.cloud",
+        "sentry.io",
+        "*.sentry.io"
+      ]
+    }
+  }
+}
